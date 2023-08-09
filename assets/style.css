@@ -7,7 +7,7 @@ body {
   h1 {
     text-align: center;
     padding: 20px;
-    background-color: #333;
+    background-color: #1B065E;
     color: white;
   }
   #taskInput {
@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
     display: block;
     border: none;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #1B065E;
     outline: none;
     font-size: 16px;
   }
@@ -25,7 +25,7 @@ body {
     margin: 10px auto;
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #333;
+    background-color: #FF87AB;
     color: white;
     border: none;
     cursor: pointer;
@@ -48,7 +48,7 @@ body {
     margin-right: 10px;
   }
   li button {
-    background-color: #ff5757;
+    background-color: #FF47DA;
     color: white;
     border: none;
     padding: 5px 10px;
