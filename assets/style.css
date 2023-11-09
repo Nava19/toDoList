@@ -11,8 +11,8 @@ body {
     color: white;
   }
   #taskInput {
-    width: 80%;
-    padding: 10px;
+    width: 100%;
+    padding: 20px;
     margin: 0 auto;
     display: block;
     border: none;
@@ -54,4 +54,8 @@ body {
     padding: 5px 10px;
     font-size: 14px;
     cursor: pointer;
+  }
+  input{
+    width: 50%;
+    padding: 10px;
   }
